@@ -15,7 +15,7 @@ Once a task is finished and tested, stage and commit the changes.
 - Write a commit message that reflects **why** the change was made, not just what files changed.
 - Scope the commit to the task — don't bundle unrelated cleanup or speculative changes.
 - Follow the existing commit style in the repo (check `git log` before writing the first message).
-- Never commit files that likely contain secrets (`.env`, credentials, private keys). Warn the user if they ask you to.
+- Never commit files that likely contain secrets (`.env`, credentials, private keys). Warn the user if they ask you to. Respect the `.gitignore` and if needed ask the user if a file or directory should be added to `.gitignore` in case you are not sure or if the said file or directory are artifacts of a program.
 - Stage specific files by name. Avoid `git add -A` or `git add .` unless you have explicitly reviewed every untracked file.
 
 ## 2. Never Touch Branches Uninstructed
