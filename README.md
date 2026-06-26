@@ -14,3 +14,10 @@ npx skills add ./git-rules
 
 ## License
 MIT
+
+
+## Resources
+
+The following skills were collected from the linked sources:
+- [karpathy-guidelines](https://github.com/multica-ai/andrej-karpathy-skills)
+- [pandas-guidelines](https://github.com/Jeffallan/claude-skills/blob/main/skills/pandas-pro/SKILL.md)
