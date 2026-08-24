@@ -1,4 +1,4 @@
-# open-science-skills
+# skills
 
 A collection of agentic skills for scientific research and ML engineering. Install them via the `skills` npm module, the included `install_skills.py` CLI (for opencode), or just copy a skill's folder into your agent's skills directory.
 
