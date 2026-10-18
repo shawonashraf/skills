@@ -14,6 +14,7 @@ A collection of agentic skills for scientific research and ML engineering. Insta
 | [synthetic-data-gen](./synthetic-data-gen) | Synthetic data generation with Distilabel; export to HF Hub or disk |
 | [llm-finetuning](./llm-finetuning) | Fine-tune Hugging Face LLMs with Axolotl & TRL; sane defaults, push to HF Hub |
 | [no-bs](./no-bs) | Stop anthropic models from generating unnecessary and complicated descriptions |
+| [ultimate-guitar-chords](./ultimate-guitar-chords) | Find and fetch song chords from ultimate-guitar.com without a browser |
 
 
 ## Installation
