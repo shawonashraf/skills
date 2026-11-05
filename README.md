@@ -15,6 +15,7 @@ A collection of agentic skills for scientific research and ML engineering. Insta
 | [llm-finetuning](./llm-finetuning) | Fine-tune Hugging Face LLMs with Axolotl & TRL; sane defaults, push to HF Hub |
 | [no-bs](./no-bs) | Stop anthropic models from generating unnecessary and complicated descriptions |
 | [ultimate-guitar-chords](./ultimate-guitar-chords) | Find and fetch song chords from ultimate-guitar.com without a browser |
+| [rclone-gdrive-mount](./rclone-gdrive-mount) | Set up Google Drive with rclone from your own OAuth client ID/secret and mount it at login |
 
 
 ## Installation
